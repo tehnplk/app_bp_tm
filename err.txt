@@ -1,2 +1,2 @@
-2021-04-08 06:21:10.425872
-IndexError('list index out of range')
+2021-04-09 11:56:08.360960
+OSError(9, 'Bad file descriptor')
