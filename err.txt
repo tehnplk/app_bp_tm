@@ -1,2 +1,2 @@
-2021-04-09 12:02:58.639887
-OSError(9, 'Bad file descriptor')
+2021-04-15 15:09:11.621717
+TypeError('an integer is required (got type NoneType)')
