@@ -31,8 +31,8 @@ MODLIBS=           $(LOCALMODLIBS) $(BASEMODLIBS)
 VERSION=	3.7
 srcdir=		..
 VPATH=		..
-abs_srcdir=	/build/python3.7-9jn7f7/python3.7-3.7.3/build-shared/..
-abs_builddir=	/build/python3.7-9jn7f7/python3.7-3.7.3/build-shared
+abs_srcdir=	/build/python3.7-DSh9dq/python3.7-3.7.3/build-shared/..
+abs_builddir=	/build/python3.7-DSh9dq/python3.7-3.7.3/build-shared
 
 
 CC=		arm-linux-gnueabihf-gcc -pthread
