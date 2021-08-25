@@ -1,2 +1,2 @@
-2021-04-29 15:39:24.024847
-SerialException('read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)')
+2021-06-10 11:46:31.739936
+IndexError('list index out of range')
